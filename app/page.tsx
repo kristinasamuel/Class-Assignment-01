@@ -6,10 +6,7 @@ export default function HomePage() {
     <>
       <div className="flex items-center justify-center h-screen">
         {/* H2 Main Heading */}
-        <div> 
         <h2 className="font-bold text-2xl"> Welcome To My Website</h2>
-        
-      </div>
       </div>
     </>
   );
