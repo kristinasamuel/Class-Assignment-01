@@ -1,3 +1,4 @@
+"use client"
 //  Placed Navbar in layout.tsx file to display it on every page
 //  Home page
 export default function HomePage() {
